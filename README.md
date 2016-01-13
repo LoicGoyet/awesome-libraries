@@ -8,3 +8,4 @@ Collection of usefull libraries or services
 * [Feature.js, browser feature detection library](http://featurejs.com/)
 * [SVG Porn, svg logo collection](http://svgporn.com/)
 * [Forcefeed, generate parameted random content to test design robustness](https://github.com/Heydon/forceFeed)
+* [Gremlins.js, monkey testing library for web apps](https://github.com/marmelab/gremlins.js)
