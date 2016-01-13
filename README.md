@@ -9,3 +9,4 @@ Collection of usefull libraries or services
 * [SVG Porn, svg logo collection](http://svgporn.com/)
 * [Forcefeed, generate parameted random content to test design robustness](https://github.com/Heydon/forceFeed)
 * [Gremlins.js, monkey testing library for web apps](https://github.com/marmelab/gremlins.js)
+* [GSAP, high performance animations in JS](https://github.com/greensock/GreenSock-JS/) - Great for svg animations as [shown here](https://css-tricks.com/svg-animation-on-css-transforms/)
