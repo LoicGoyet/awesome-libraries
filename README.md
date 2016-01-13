@@ -6,3 +6,4 @@ Collection of usefull libraries or services
 * [ttystudio, A terminal-to-gif recorder minus the headaches.](https://github.com/chjj/ttystudio)
 * [Protip, a jquery tooltip library](https://github.com/DoclerLabs/Protip)
 * [Feature.js, browser feature detection library](http://featurejs.com/)
+* [SVG Porn, svg logo collection](http://svgporn.com/)
