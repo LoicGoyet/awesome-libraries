@@ -12,3 +12,4 @@ Collection of usefull libraries or services
 * [GSAP, high performance animations in JS](https://github.com/greensock/GreenSock-JS/) - Great for svg animations as [shown here](https://css-tricks.com/svg-animation-on-css-transforms/)
 * [Philter, Js plugin to control CSS Filter via HTML attributes](http://specro.github.io/Philter/)
 * [Booking, javaScript plugin for making booking widget](http://booking.timekit.io/)
+* [Simplified JavaScript Jargon, list of definitions related in the JavaScript world](https://github.com/HugoGiraudel/SJSJ)
