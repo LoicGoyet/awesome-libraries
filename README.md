@@ -13,3 +13,4 @@ Collection of usefull libraries or services
 * [Philter, Js plugin to control CSS Filter via HTML attributes](http://specro.github.io/Philter/)
 * [Booking, javaScript plugin for making booking widget](http://booking.timekit.io/)
 * [Simplified JavaScript Jargon, list of definitions related in the JavaScript world](https://github.com/HugoGiraudel/SJSJ)
+* [Galen, tool for visual testing](http://galenframework.com/)
