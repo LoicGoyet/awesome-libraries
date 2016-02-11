@@ -14,3 +14,4 @@ Collection of usefull libraries or services
 * [Booking, javaScript plugin for making booking widget](http://booking.timekit.io/)
 * [Simplified JavaScript Jargon, list of definitions related in the JavaScript world](https://github.com/HugoGiraudel/SJSJ)
 * [Galen, tool for visual testing](http://galenframework.com/)
+* [onCSSAnimationEnd, js plugin that detect when css animation/transition is done](http://osvaldas.info/detecting-css-animation-transition-end-with-javascript)
