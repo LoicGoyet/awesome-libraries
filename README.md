@@ -15,3 +15,4 @@ Collection of usefull libraries or services
 * [Simplified JavaScript Jargon, list of definitions related in the JavaScript world](https://github.com/HugoGiraudel/SJSJ)
 * [Galen, tool for visual testing](http://galenframework.com/)
 * [onCSSAnimationEnd, js plugin that detect when css animation/transition is done](http://osvaldas.info/detecting-css-animation-transition-end-with-javascript)
+* [Bricks.js, A blazing fast masonry layout generator for fixed width elements](http://callmecavs.com/bricks.js/)
