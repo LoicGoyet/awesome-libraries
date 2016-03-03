@@ -17,3 +17,4 @@ Collection of usefull libraries or services
 * [onCSSAnimationEnd, js plugin that detect when css animation/transition is done](http://osvaldas.info/detecting-css-animation-transition-end-with-javascript)
 * [Bricks.js, A blazing fast masonry layout generator for fixed width elements](http://callmecavs.com/bricks.js/)
 * [Jump.js, A small, modern, dependency-free smooth scrolling library](http://callmecavs.com/jump.js/)
+* [Quantity Queries, Simple quantity queries mixins for Sass](https://github.com/danielguillan/quantity-queries)
