@@ -18,3 +18,4 @@ Collection of usefull libraries or services
 * [Bricks.js, A blazing fast masonry layout generator for fixed width elements](http://callmecavs.com/bricks.js/)
 * [Jump.js, A small, modern, dependency-free smooth scrolling library](http://callmecavs.com/jump.js/)
 * [Quantity Queries, Simple quantity queries mixins for Sass](https://github.com/danielguillan/quantity-queries)
+* [Superplaceholder, JavaScript library to dynamise input placeholders](http://kushagragour.in/lab/superplaceholderjs/)
