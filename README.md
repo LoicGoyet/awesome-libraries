@@ -20,3 +20,4 @@ Collection of usefull libraries or services
 * [Quantity Queries, Simple quantity queries mixins for Sass](https://github.com/danielguillan/quantity-queries)
 * [Superplaceholder, JavaScript library to dynamise input placeholders](http://kushagragour.in/lab/superplaceholderjs/)
 * [Balloon.css, Simple tooltips made of pure CSS](https://github.com/kazzkiq/balloon.css)
+* [Susy, sass plugin for grids and layout](http://susy.oddbird.net/) / [Here a nice intro](https://www.smashingmagazine.com/2015/07/smarter-grids-with-sass-and-susy/)
