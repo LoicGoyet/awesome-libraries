@@ -21,3 +21,4 @@ Collection of usefull libraries or services
 * [Superplaceholder, JavaScript library to dynamise input placeholders](http://kushagragour.in/lab/superplaceholderjs/)
 * [Balloon.css, Simple tooltips made of pure CSS](https://github.com/kazzkiq/balloon.css)
 * [Susy, sass plugin for grids and layout](http://susy.oddbird.net/) / [Here a nice intro](https://www.smashingmagazine.com/2015/07/smarter-grids-with-sass-and-susy/)
+* [List.js, Tiny, invisible and simple, yet powerful and incredibly fast vanilla JavaScript that adds search, sort, filters and flexibility to plain HTML lists, tables, or anything.](http://www.listjs.com/)
