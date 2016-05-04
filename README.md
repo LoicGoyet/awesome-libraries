@@ -26,3 +26,4 @@ Collection of usefull libraries or services
 * [Gutenberg, a meaningful web typography starter kit](https://matejlatin.github.io/Gutenberg/)
 * [Bricklayer.js, Lightweight and independent Pinterest-like cascading grid layout library](https://github.com/ademilter/bricklayer)
 * [Turntable.js, A responsive jquery plugin to make turn a product](https://github.com/PolarNotion/turntable)
+* [JSON Server, Get a full fake REST API with zero coding in less than 30 seconds](https://github.com/typicode/json-server)
