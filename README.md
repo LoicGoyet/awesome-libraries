@@ -28,3 +28,4 @@ Collection of usefull libraries or services
 * [Turntable.js, A responsive jquery plugin to make turn a product](https://github.com/PolarNotion/turntable)
 * [JSON Server, Get a full fake REST API with zero coding in less than 30 seconds](https://github.com/typicode/json-server)
 * [Pills, A simple responsive CSS Grid for humans](https://github.com/rohitkrai03/pills)
+* [Push.js, A compact, cross-browser solution for using the JavaScript Notifications API](https://github.com/Nickersoft/push.js)
