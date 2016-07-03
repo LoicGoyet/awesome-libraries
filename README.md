@@ -29,3 +29,4 @@ Collection of usefull libraries or services
 * [JSON Server, Get a full fake REST API with zero coding in less than 30 seconds](https://github.com/typicode/json-server)
 * [Pills, A simple responsive CSS Grid for humans](https://github.com/rohitkrai03/pills)
 * [Push.js, A compact, cross-browser solution for using the JavaScript Notifications API](https://github.com/Nickersoft/push.js)
+* [imagehover.css, Pure CSS Image Hover Effect Library](http://imagehover.io/)
