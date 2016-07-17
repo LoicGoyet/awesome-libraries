@@ -30,3 +30,4 @@ Collection of usefull libraries or services
 * [Pills, A simple responsive CSS Grid for humans](https://github.com/rohitkrai03/pills)
 * [Push.js, A compact, cross-browser solution for using the JavaScript Notifications API](https://github.com/Nickersoft/push.js)
 * [imagehover.css, Pure CSS Image Hover Effect Library](http://imagehover.io/)
+* [Cleave.js, Format your <input/> content when you are typing](http://nosir.github.io/cleave.js/)
