@@ -33,3 +33,4 @@ Collection of usefull libraries or services
 * [Cleave.js, Format your <input/> content when you are typing](http://nosir.github.io/cleave.js/)
 * [Scrolltrigger, Add scroll based animations to your site with ease](https://terwanerik.github.io/ScrollTrigger/)
 * [Toolkit, a pure CSS Tooltip library](https://eliorshalev.github.io/tootik/)
+* [text-spinners, Pure text, CSS only, font independent, inline loading indicators](https://github.com/tawian/text-spinners)
