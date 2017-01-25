@@ -36,3 +36,4 @@ Collection of usefull libraries or services
 * [text-spinners, Pure text, CSS only, font independent, inline loading indicators](https://github.com/tawian/text-spinners)
 * [Ally.js, JavaScript library to help modern web applications with accessibility concerns by making accessibility simpler](https://allyjs.io)
 * [Siema, Lightweight and simple carousel in pure JavaScript](https://github.com/pawelgrzybek/siema)
+* [scrollMonitor, A simple and fast API that allows you to receive events when elements enter or exit a viewport.](https://github.com/stutrek/scrollMonitor)
