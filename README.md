@@ -39,3 +39,4 @@ Collection of usefull libraries or services
 * [scrollMonitor, A simple and fast API that allows you to receive events when elements enter or exit a viewport.](https://github.com/stutrek/scrollMonitor)
 * [pull-to-reload, Pull to reload implementation for the web. Designed to work with both mobile and websites.](https://github.com/ErlendEllingsen/pull-to-reload)
 * [HR.js, Tiny JavaScript plugin for highlighting and replacing text in the DOM](https://mburakerman.github.io/hrjs/)
+* [barba.js, Create badass, fluid and smooth transition between your website's pages.](https://github.com/luruke/barba.js)
