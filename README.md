@@ -40,3 +40,4 @@ Collection of usefull libraries or services
 * [pull-to-reload, Pull to reload implementation for the web. Designed to work with both mobile and websites.](https://github.com/ErlendEllingsen/pull-to-reload)
 * [HR.js, Tiny JavaScript plugin for highlighting and replacing text in the DOM](https://mburakerman.github.io/hrjs/)
 * [barba.js, Create badass, fluid and smooth transition between your website's pages.](https://github.com/luruke/barba.js)
+* [across-tabs, Easy communication between cross-origin browser tabs](https://github.com/wingify/across-tabs)
