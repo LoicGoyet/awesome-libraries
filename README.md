@@ -42,3 +42,4 @@ Collection of usefull libraries or services
 * [barba.js, Create badass, fluid and smooth transition between your website's pages.](https://github.com/luruke/barba.js)
 * [across-tabs, Easy communication between cross-origin browser tabs](https://github.com/wingify/across-tabs)
 * [true, sass unit tests](https://github.com/oddbird/true)
+* [sass-mq, A Sass mixin that helps you compose media queries in an elegant way.](https://github.com/sass-mq/sass-mq)
