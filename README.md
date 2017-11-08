@@ -43,3 +43,4 @@ Collection of usefull libraries or services
 * [across-tabs, Easy communication between cross-origin browser tabs](https://github.com/wingify/across-tabs)
 * [true, sass unit tests](https://github.com/oddbird/true)
 * [sass-mq, A Sass mixin that helps you compose media queries in an elegant way.](https://github.com/sass-mq/sass-mq)
+* [include-media, Simple, elegant and maintainable media queries in Sass](https://github.com/eduardoboucas/include-media)
