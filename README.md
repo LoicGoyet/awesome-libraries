@@ -46,3 +46,4 @@ Collection of usefull libraries or services
 * [include-media, Simple, elegant and maintainable media queries in Sass](https://github.com/eduardoboucas/include-media)
 * [ScrollReveal, Easy scroll animations for web and mobile browsers.](https://github.com/jlmakes/scrollreveal)
 * [Sass-extract, Extract structured variables from sass files](https://github.com/jgranstrom/sass-extract)
+* [Consola, Elegant Console Logger](https://github.com/nuxt/consola)
