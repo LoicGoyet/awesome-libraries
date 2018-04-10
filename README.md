@@ -47,3 +47,4 @@ Collection of usefull libraries or services
 * [ScrollReveal, Easy scroll animations for web and mobile browsers.](https://github.com/jlmakes/scrollreveal)
 * [Sass-extract, Extract structured variables from sass files](https://github.com/jgranstrom/sass-extract)
 * [Consola, Elegant Console Logger](https://github.com/nuxt/consola)
+* [Autotrack, Automatic and enhanced Google Analytics tracking for common user interactions on the web.](https://github.com/googleanalytics/autotrack)
