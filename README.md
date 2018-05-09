@@ -50,3 +50,4 @@ Collection of usefull libraries or services
 * [Autotrack, Automatic and enhanced Google Analytics tracking for common user interactions on the web.](https://github.com/googleanalytics/autotrack)
 *[Critical, Extract & Inline Critical-path CSS in HTML pages
 ](https://github.com/addyosmani/critical)
+*[text-mask, Input mask for React, Angular, Ember, Vue, & plain JavaScript](https://github.com/text-mask/text-mask)
