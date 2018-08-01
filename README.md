@@ -48,7 +48,7 @@ Collection of usefull libraries or services
 * [Sass-extract, Extract structured variables from sass files](https://github.com/jgranstrom/sass-extract)
 * [Consola, Elegant Console Logger](https://github.com/nuxt/consola)
 * [Autotrack, Automatic and enhanced Google Analytics tracking for common user interactions on the web.](https://github.com/googleanalytics/autotrack)
-*[Critical, Extract & Inline Critical-path CSS in HTML pages
+* [Critical, Extract & Inline Critical-path CSS in HTML pages
 ](https://github.com/addyosmani/critical)
-*[text-mask, Input mask for React, Angular, Ember, Vue, & plain JavaScript](https://github.com/text-mask/text-mask)
-*[mdx-deck, MDX-based presentation decks](https://github.com/jxnblk/mdx-deck)
+* [text-mask, Input mask for React, Angular, Ember, Vue, & plain JavaScript](https://github.com/text-mask/text-mask)
+* [mdx-deck, MDX-based presentation decks](https://github.com/jxnblk/mdx-deck)
