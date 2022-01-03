@@ -52,3 +52,4 @@ Collection of usefull libraries or services
 ](https://github.com/addyosmani/critical)
 * [text-mask, Input mask for React, Angular, Ember, Vue, & plain JavaScript](https://github.com/text-mask/text-mask)
 * [mdx-deck, MDX-based presentation decks](https://github.com/jxnblk/mdx-deck)
+* [Floating UI - Positioning for tooltips, popovers, dropdowns, and more (React compatible)](https://floating-ui.com/)
